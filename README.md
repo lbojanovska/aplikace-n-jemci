@@ -1,1 +1,1 @@
-# aplikace-n-jemci
+# aplikace-najemci
