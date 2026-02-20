@@ -1,1 +1,1 @@
-# psn-interni
+# psn-portal
